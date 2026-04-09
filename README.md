@@ -2,7 +2,7 @@
 
 This repository contains Python implementations of the **Disjoint Set (Union-Find)** data structure, along with different union strategies.
 
-## 📂 Files
+##  Files
 
 - **`union_and_find.py`**  
   Basic implementation of Disjoint Sets with `find` and `union` operations.
@@ -13,7 +13,7 @@ This repository contains Python implementations of the **Disjoint Set (Union-Fin
 - **`union_by_size.py`**  
   Optimized union operation using **union by size**.
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
@@ -27,20 +27,20 @@ This repository contains Python implementations of the **Disjoint Set (Union-Fin
    python Disjoint\ Sets/union_by_size.py
    ```
 
-## 📖 Concepts Covered
+##  Concepts Covered
 
 * Disjoint Set (Union-Find) data structure
 * Path Compression in `find`
 * Union by Rank
 * Union by Size
 
-## 🛠️ Requirements
+##  Requirements
 
 * Python 3.x
 
 No external libraries are required.
 
-## ✨ Example Output
+##  Example Output
 
 For `union_by_size.py`:
 
