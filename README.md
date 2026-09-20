@@ -42,7 +42,7 @@ No external libraries are required.
 
 ##  Example Output
 
-For `union_by_size.py`:
+For **`union_by_size.py`**:
 
 ```
 Element 0: Representative = 0
